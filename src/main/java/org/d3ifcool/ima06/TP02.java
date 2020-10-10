@@ -1,4 +1,4 @@
-package org.d3ifcool.ima05;
+package org.d3ifcool.ima06;
 
 public class TP02 {
 
