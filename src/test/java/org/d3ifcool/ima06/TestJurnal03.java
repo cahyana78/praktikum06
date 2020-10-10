@@ -9,14 +9,14 @@ import java.io.*;
 public class TestJurnal03 {
 
     private static final String[] INPUT = {
-            "1",
-			"123",
-			"145",
-			"578"
+        "1",
+	"123",
+	"145",
+	"578"
     };
     private static final String[] OUTPUT = {
-            "YA","BUKAN"
-			"YA","BUKAN"
+        "YA","BUKAN",
+	"YA","BUKAN"
     };
 
     @Test
