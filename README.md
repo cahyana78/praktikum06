@@ -1,4 +1,4 @@
-# Modul 05
+# Modul 06
 
 Isilah nama dan NIM terlebih dahulu.
 
